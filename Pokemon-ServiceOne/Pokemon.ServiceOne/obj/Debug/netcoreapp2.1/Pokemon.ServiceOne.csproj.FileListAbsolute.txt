@@ -1,0 +1,15 @@
+D:\Consoft\danskebank\Pokemon-ServiceOne\Pokemon.ServiceOne\obj\Debug\netcoreapp2.1\Pokemon.ServiceOne.csproj.CoreCompileInputs.cache
+D:\Consoft\danskebank\Pokemon-ServiceOne\Pokemon.ServiceOne\obj\Debug\netcoreapp2.1\Pokemon.ServiceOne.AssemblyInfoInputs.cache
+D:\Consoft\danskebank\Pokemon-ServiceOne\Pokemon.ServiceOne\obj\Debug\netcoreapp2.1\Pokemon.ServiceOne.AssemblyInfo.cs
+D:\Consoft\danskebank\Pokemon-ServiceOne\Pokemon.ServiceOne\bin\Debug\netcoreapp2.1\Pokemon.ServiceOne.deps.json
+D:\Consoft\danskebank\Pokemon-ServiceOne\Pokemon.ServiceOne\bin\Debug\netcoreapp2.1\Pokemon.ServiceOne.runtimeconfig.json
+D:\Consoft\danskebank\Pokemon-ServiceOne\Pokemon.ServiceOne\bin\Debug\netcoreapp2.1\Pokemon.ServiceOne.runtimeconfig.dev.json
+D:\Consoft\danskebank\Pokemon-ServiceOne\Pokemon.ServiceOne\bin\Debug\netcoreapp2.1\Pokemon.ServiceOne.dll
+D:\Consoft\danskebank\Pokemon-ServiceOne\Pokemon.ServiceOne\bin\Debug\netcoreapp2.1\Pokemon.ServiceOne.pdb
+D:\Consoft\danskebank\Pokemon-ServiceOne\Pokemon.ServiceOne\obj\Debug\netcoreapp2.1\Pokemon.ServiceOne.csprojAssemblyReference.cache
+D:\Consoft\danskebank\Pokemon-ServiceOne\Pokemon.ServiceOne\obj\Debug\netcoreapp2.1\Pokemon.ServiceOne.RazorAssemblyInfo.cache
+D:\Consoft\danskebank\Pokemon-ServiceOne\Pokemon.ServiceOne\obj\Debug\netcoreapp2.1\Pokemon.ServiceOne.RazorAssemblyInfo.cs
+D:\Consoft\danskebank\Pokemon-ServiceOne\Pokemon.ServiceOne\obj\Debug\netcoreapp2.1\Pokemon.ServiceOne.RazorTargetAssemblyInfo.cache
+D:\Consoft\danskebank\Pokemon-ServiceOne\Pokemon.ServiceOne\obj\Debug\netcoreapp2.1\Pokemon.ServiceOne.dll
+D:\Consoft\danskebank\Pokemon-ServiceOne\Pokemon.ServiceOne\obj\Debug\netcoreapp2.1\Pokemon.ServiceOne.pdb
+D:\Consoft\danskebank\Pokemon-ServiceOne\Pokemon.ServiceOne\bin\Debug\netcoreapp2.1\Pokemon.ServiceOne.xml

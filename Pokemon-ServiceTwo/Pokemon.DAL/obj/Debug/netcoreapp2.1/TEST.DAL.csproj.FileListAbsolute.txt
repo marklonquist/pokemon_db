@@ -1,0 +1,10 @@
+D:\Consoft\danskebank\TEST\TEST.DAL\bin\Debug\netcoreapp2.1\pokemons.csv
+D:\Consoft\danskebank\TEST\TEST.DAL\bin\Debug\netcoreapp2.1\TEST.DAL.deps.json
+D:\Consoft\danskebank\TEST\TEST.DAL\bin\Debug\netcoreapp2.1\TEST.DAL.dll
+D:\Consoft\danskebank\TEST\TEST.DAL\bin\Debug\netcoreapp2.1\TEST.DAL.pdb
+D:\Consoft\danskebank\TEST\TEST.DAL\obj\Debug\netcoreapp2.1\TEST.DAL.csproj.CoreCompileInputs.cache
+D:\Consoft\danskebank\TEST\TEST.DAL\obj\Debug\netcoreapp2.1\TEST.DAL.AssemblyInfoInputs.cache
+D:\Consoft\danskebank\TEST\TEST.DAL\obj\Debug\netcoreapp2.1\TEST.DAL.AssemblyInfo.cs
+D:\Consoft\danskebank\TEST\TEST.DAL\obj\Debug\netcoreapp2.1\TEST.DAL.dll
+D:\Consoft\danskebank\TEST\TEST.DAL\obj\Debug\netcoreapp2.1\TEST.DAL.pdb
+D:\Consoft\danskebank\TEST\TEST.DAL\obj\Debug\netcoreapp2.1\TEST.DAL.csprojAssemblyReference.cache

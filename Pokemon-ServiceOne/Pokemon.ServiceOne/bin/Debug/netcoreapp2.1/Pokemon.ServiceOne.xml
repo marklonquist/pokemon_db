@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Pokemon.ServiceOne</name>
+    </assembly>
+    <members>
+        <member name="M:Pokemon.ServiceOne.Controllers.BaseController.Get(System.String)">
+            <summary>
+            Returns pokemons (if any) which contains part of the name parameter
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pokemon.ServiceOne.Controllers.BattleController.Get(System.Int32,System.Int32)">
+            <summary>
+            Returns the winner of a battle between pokemon A and pokemon B
+            </summary>
+            <param name="pokemonIdOne"></param>
+            <param name="pokemonIdTwo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pokemon.ServiceOne.Controllers.HeadersController.Get(System.Collections.Generic.Dictionary{System.String,System.Int32})">
+            <summary>
+            Data is not required. If no data is input, a list of headers will be presented.
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pokemon.ServiceOne.Controllers.LegendariesController.Get">
+            <summary>
+            Returns all legendaries pokemons
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Pokemon.ServiceOne.Controllers.TypesController.Get(System.String)">
+            <summary>
+            Returns all pokemons (if any) of specified type
+            </summary>
+            <param name="type"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pokemon.ServiceOne.Controllers.TypesController.Get(System.String,System.String)">
+            <summary>
+            Returns all pokemons (if any) of specified types
+            </summary>
+            <param name="typeOne"></param>
+            <param name="typeTwo"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

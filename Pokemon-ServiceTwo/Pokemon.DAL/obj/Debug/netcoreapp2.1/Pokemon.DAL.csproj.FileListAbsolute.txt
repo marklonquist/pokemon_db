@@ -1,0 +1,10 @@
+D:\Consoft\danskebank\Pokemon-ServiceTwo\Pokemon.DAL\bin\Debug\netcoreapp2.1\pokemons.csv
+D:\Consoft\danskebank\Pokemon-ServiceTwo\Pokemon.DAL\bin\Debug\netcoreapp2.1\Pokemon.DAL.deps.json
+D:\Consoft\danskebank\Pokemon-ServiceTwo\Pokemon.DAL\bin\Debug\netcoreapp2.1\Pokemon.DAL.dll
+D:\Consoft\danskebank\Pokemon-ServiceTwo\Pokemon.DAL\bin\Debug\netcoreapp2.1\Pokemon.DAL.pdb
+D:\Consoft\danskebank\Pokemon-ServiceTwo\Pokemon.DAL\obj\Debug\netcoreapp2.1\Pokemon.DAL.csprojAssemblyReference.cache
+D:\Consoft\danskebank\Pokemon-ServiceTwo\Pokemon.DAL\obj\Debug\netcoreapp2.1\Pokemon.DAL.csproj.CoreCompileInputs.cache
+D:\Consoft\danskebank\Pokemon-ServiceTwo\Pokemon.DAL\obj\Debug\netcoreapp2.1\Pokemon.DAL.AssemblyInfoInputs.cache
+D:\Consoft\danskebank\Pokemon-ServiceTwo\Pokemon.DAL\obj\Debug\netcoreapp2.1\Pokemon.DAL.AssemblyInfo.cs
+D:\Consoft\danskebank\Pokemon-ServiceTwo\Pokemon.DAL\obj\Debug\netcoreapp2.1\Pokemon.DAL.dll
+D:\Consoft\danskebank\Pokemon-ServiceTwo\Pokemon.DAL\obj\Debug\netcoreapp2.1\Pokemon.DAL.pdb
